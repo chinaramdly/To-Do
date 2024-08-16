@@ -1,13 +1,38 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
 
-a {
-  color: orange;
+#demo {
+  padding: 60px 0;
 }
-
-a:hover {
-  color: black;
+#demo .box {
+  border-radius: 25px;
+  padding: 20px;
+  background: #9c6644;
 }
-/*# sourceMappingURL=style.css.map */
+#demo .box h1 {
+  font-size: 30px;
+  color: white;
+  font-weight: 700;
+}
+#demo .box input {
+  margin: 20px 0;
+}
+#demo .box input, #demo .box .btn {
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+#demo .box .btn {
+  padding: 5px 18px;
+}
+#demo .textbox {
+  width: 50px;
+}
+#demo .textbox h2 {
+  font-size: 20px;
+  margin-top: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}/*# sourceMappingURL=style.css.map */
