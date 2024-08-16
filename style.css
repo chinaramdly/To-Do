@@ -19,12 +19,12 @@ body {
 #demo .box input {
   margin: 20px 0;
 }
-#demo .box input, #demo .box .button {
+#demo .box input, #demo .box .btn {
   background-color: white;
   border-radius: 15px;
   padding: 10px;
 }
-#demo .box .button {
+#demo .box .btn {
   padding: 5px 18px;
 }
 #demo .textbox .btn {
