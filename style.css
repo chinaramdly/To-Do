@@ -19,20 +19,21 @@ body {
 #demo .box input {
   margin: 20px 0;
 }
-#demo .box input, #demo .box .btn {
+#demo .box input, #demo .box .button {
   background-color: white;
   border-radius: 15px;
   padding: 10px;
 }
-#demo .box .btn {
+#demo .box .button {
   padding: 5px 18px;
 }
-#demo .textbox {
-  width: 50px;
-}
-#demo .textbox h2 {
+#demo .textbox .btn {
+  padding: 1px;
   font-size: 20px;
+  display: flex;
+  flex-direction: column;
   margin-top: 10px;
-  border: 1px solid #000;
-  border-radius: 5px;
+  border: 2px solid #2d4552;
+  border-radius: 15px;
+  width: 150px;
 }/*# sourceMappingURL=style.css.map */

@@ -1,11 +1,11 @@
 "use strict";
 $(document).ready(function () {
 
-    $('.btn').click(function (e) { 
+    $('.button').click(function (e) { 
         e.preventDefault();
         let b= (a)=>{
             for( let i=1; i<=a; i++) {
-                $('.textbox').append(`<h2>${'5f'}<h2>`);
+                $('.textbox').append(`<div class="btn">${'salam'}</div><div class="btn">${'salam salam salam'}</div>`);
             }
         }
         b($('input').val());
