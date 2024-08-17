@@ -5,7 +5,7 @@ $(document).ready(function () {
         e.preventDefault();
         let b = (a) => {
             for (let i = 1; i <= a; i++) {
-                $('.textbox').append(`<div class="btn">${a}</div>`);
+                $('.textbox').append(`<div class="btn">${i}</div>`);
 
             }
         }
