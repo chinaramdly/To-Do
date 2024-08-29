@@ -3,33 +3,33 @@ body {
   font-weight: 500;
 }
 
-#demo {
+#inputme {
   padding: 60px 0;
 }
-#demo .box {
+#inputme .box {
   width: 230px;
   border-radius: 25px;
   padding: 20px;
   background: #9c6644;
   margin-bottom: 35px;
 }
-#demo .box h1 {
+#inputme .box h1 {
   font-size: 30px;
   color: white;
   font-weight: 700;
 }
-#demo .box input {
+#inputme .box input {
   margin: 20px 0;
 }
-#demo .box input, #demo .box .btn {
+#inputme .box input, #inputme .box .btn {
   background-color: white;
   border-radius: 15px;
   padding: 10px;
 }
-#demo .box .btn {
+#inputme .box .btn {
   padding: 5px 18px;
 }
-#demo .minibox h2 {
+#inputme .minibox h2 {
   width: auto;
   padding: 0 30px;
   margin: 10px 0;
