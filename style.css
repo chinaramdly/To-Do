@@ -7,33 +7,34 @@ body {
   padding: 60px 0;
 }
 #inputme .box {
-  width: 230px;
-  border-radius: 25px;
-  padding: 20px;
+  width: 270px;
+  border-radius: 30px;
+  padding: 25px;
   background: #9c6644;
   margin-bottom: 35px;
 }
 #inputme .box h1 {
-  font-size: 30px;
+  font-size: 50px;
   color: white;
   font-weight: 700;
 }
 #inputme .box input {
-  margin: 20px 0;
+  margin: 25px 0;
 }
 #inputme .box input, #inputme .box .btn {
   background-color: white;
-  border-radius: 15px;
-  padding: 10px;
+  border-radius: 20px;
+  padding: 15px 20px;
 }
 #inputme .box .btn {
-  padding: 5px 18px;
+  padding: 5px 20px;
 }
 #inputme .minibox h2 {
-  width: 150px;
-  padding: 5px 10px;
+  font-size: 20px;
+  width: 140px;
+  padding: 7px 30px;
   margin: 10px 0;
-  border-radius: 15px;
-  border: 2px solid #191433;
+  border-radius: 20px;
+  border: 2px solid #3f3764;
   word-wrap: break-word;
 }/*# sourceMappingURL=style.css.map */
